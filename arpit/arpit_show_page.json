@@ -20,8 +20,8 @@
     "imageid": "66159175&imgsize=332850",
     "hl": "Eight years on, NIT Uttarakhand on borrowed land awaits its own campus",
     "headline": {
-      "hl": "Heading at the bottom",
-      "placement": "On the Image To the Right",
+      "hl": "On the Image At the Top",
+      "placement": "On the Image At the Top",
       "cc": "#FFFFFF"
     },
     "synopsys": {
@@ -57,8 +57,8 @@
         "id": "66152208",
         "tn": "photo",
         "dm": "t",
-        "cap": "Eight years on, NIT Uttarakhand on borrowed land awaits its own campus - part Caption Below lead medium",
-        "placement": "Below the Lead Medium",
+        "cap": "",
+        "placement": "",
         "h": "480",
         "w": "360"
       },
