@@ -25,21 +25,7 @@
     "wu": "https://timesofindia.indiatimes.com/test-article-for-caption-background/articleshow/68151118.cms",
     "su": "http://toi.in/Id_VVZ/",
     "syn": "This is a test synopsis, This is a test synopsis, This is a test synopsis,This is a test synopsis",
-    "synopsys": {
-      "syn": "This is a test synopsis, This is a test synopsis, This is a test synopsis,This is a test synopsis"
-    },
     "image": [
-      {
-        "id": "68151206",
-        "tn": "photo",
-        "dm": "t",
-        "cap": "Modi image as a caption that needs to be aligned on top of the image as per edit feedback",
-        "placement": "left",
-        "cc": "#000000",
-        "bg_cc": "#FFFFFF",
-        "h": "400",
-        "w": "650"
-      }
     ],
     "Story": "This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.Th <img src=\"https://timesofindia.indiatimes.com/photo.cms?photoid=68151171\" imageid=\"68151171\" h=\"400.0\" w=\"650.0\" /> is is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.",
     "recoarr": [
