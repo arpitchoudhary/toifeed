@@ -1,8 +1,18 @@
+
 {
   "it": {
     "prxpt": "24",
-    "upd": "1551096060000",
-    "lpt": "1551333591600",
+    "upd": "1539241980000",
+    "lpt": "1539242064933",
+    "secinfo": {
+      "name": "PrimeList",
+      "defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=android&andver=425&adreqfrm=sec",
+      "tn": "mixed",
+      "uid": "KARTabElection-01",
+      "ct": "10",
+      "secid": "60478120"
+    },
+    "psecid": "",
     "ads": {
       "header": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_App_AOS_ROS_PT_ATF",
       "footer": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_App_AOS_ROS_PT_BTF",
@@ -13,29 +23,25 @@
       "ctnfootershow": "324393",
       "videoadshow": "https://pubads.g.doubleclick.net/gampad/ads?iu=/7176/TOI_App_Android/TOI_App_AOS_Videos/TOI_App_AOS_VDO_Video&description_url=[placeholder]&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=300x400|320x240|320x480|400x300|400x315|420x315|480x320&unviewed_position_start=1"
     },
-    "sec": "",
+    "sec": "/india",
     "cs": "prime",
     "htmlview": "true",
     "tn": "news",
-    "id": "68151118",
-    "imageid": "68151206&imgsize=39211",
-    "hl": "Test article for Caption background",
-    "headline": {
-      "hl": "Test article for Caption background",
-      "placement": "",
-      "cc": "#FFFFFF",
-      "fontsize": ""
-    },
-    "dl": "1551086460000",
+    "id": "66152208",
+    "imageid": "66152317&imgsize=277619",
+    "au": "Manash Pratim Gohain",
+    "auimgurl": "https://static.toiimg.com/authorphoto/00479213513.cms",
+    "bl": "Manash Pratim Gohain",
+    "dl": "1539180480000",
     "dm": "t",
-    "wu": "https://timesofindia.indiatimes.com/test-article-for-caption-background/articleshow/68151118.cms",
-    "su": "http://toi.in/Id_VVZ/",
-    "syn": "This is a test synopsis, This is a test synopsis, This is a test synopsis,This is a test synopsis",
+    "wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms",
+    "su": "http://toi.in/1f5y2b59/",
+    "syn": "",
     "synopsys": {
-      "syn": "This is a test synopsis, This is a test synopsis, This is a test synopsis,This is a test synopsis"
+      "syn": ""
     },
     "image": [],
-    "Story": "This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.Th <img src=\"https://timesofindia.indiatimes.com/photo.cms?photoid=68151171\" imageid=\"68151171\" h=\"400.0\" w=\"650.0\" /> is is a test body.This is a test body.This is a test body.This is a test body.This is a test body.This is a test body.",
+    "Story": "NEW DELHI: Several top private schools are among hundreds of schools affiliated to the Central Board of Secondary Education that find themselves in the dock for registering more than 40 students per section. The infringements were detected through the board’s Online Affiliated School Information System (<a type=\"topic\" href=\"http://timesofindia.indiatimes.com/topic/OASIS\">OASIS</a>). \n\nUnder <a type=\"topic\" href=\"https://m.timesofindia.com/topic/cbse\">CBSE</a> norms, schools cannot register more than 40 students per section. The board intends to penalise close to 1,700 private schools across the country by sending them a show-cause notice for withdrawal of affiliation and a fine of Rs 500 or more per extra student. These schools make up around 7-8% of all schools under CBSE. \n\nThe move is also seen as a crackdown against “renting of seats” by private schools. Students are often enrolled in schools while they are actually taking private coaching, and their attendance marked in absentia.\n<img src=\"https://timesofindia.indiatimes.com/photo.cms?photoid=66152334\" imageid=\"66152334\" h=\"1000.0\" w=\"635.0\" /> \n<strong>CBSE allows KVs to enrol 45 kids per section\n</strong>\nOnline Affiliated School Information System was introduced in 2016 with an aim to consolidate the entire school information on a digital platform.\n<ad type=\"mrec\"></ad>CBSE detected the flouting of the class strength rule when data stored in OASIS on the total seats in each school was matched with the number of students being registered in classes IX and XI. It was seen the registrations exceeded the number of seats allowed for the school in many cases. The last date for the Class IX and XI registrations is October 22, 2018. But unlike in previous years, schools will be allowed a limited number of <a type=\"topic\" href=\"https://m.timesofindia.com/topic/students-per-class\">students per class</a> for registration this time. An official with MHRD said a number of Kendriya Vidyalayas and Jawahar Navodaya Vidyalayas have also violated the rule.\n\n<img src=\"https://timesofindia.indiatimes.com/photo.cms?photoid=66152353\" imageid=\"66152353\" h=\"421.0\" w=\"633.0\" /> \n“If a school is given permission to operate four sections in each class under the affiliation rules the school can have maximum of 160 students in a particular class,” a government official said.\n\nAs the schools reached out to the board, CBSE on Monday allowed KVs and JNVs to register 45 students per section. “Since the number of extra students in government schools is not large and many of them come from disadvantaged sections, the board will, as a one-time relief, allow registrations without penalty,” said the MHRD official.\n",
     "recoarr": [
       {
         "cs": "prime",
