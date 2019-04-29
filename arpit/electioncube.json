@@ -1,85 +1,115 @@
 {
+  "status": "true",
   "items": [
     {
       "tn": "election",
-      "wu" : "URL",
-      "ttl_seats": 543,
-      "rslt": [
-        {
-          "nm": "BJP",
-          "ws": 43,
-          "cc": "#FF7D1D"
-        },
-        {
-          "nm": "INC",
-          "ws": 40,
-          "cc": "#0076CC"
-        },
-        {
-          "nm": "MAH",
-          "ws": 20,
-          "cc": "#00C86E"
-        },
-        {
-          "nm": "NCP",
-          "ws": 43,
-          "cc": "#84898B"
-        },
-        {
-          "nm": "OTH",
-          "ws": 10,
-          "cc": "#f44259"
-        }
-      ],
+      "wu": "https://m.timesofindia.com/elections",
+      "ttl_seats": "543",
       "header": "LOK SABHA 2019",
-      "status": "LEADS + WINS",
-      "showLive": true,
-      "extra_label": "MAJORITY MARK: 272"
-    },
-    {
-      "tn": "ad"
-    },
-    {
-      "tn": "election",
-      "wu" : "url",
-      "header": "ASSEMLY ELECTION 2019",
-      "status": "LEADS + WINS",
-      "showLive": true,
-      "ttl_seats": 200,
+      "status": "RESULTS",
       "extra_label": "MAJORITY MARK: 272",
       "rslt": [
         {
           "nm": "BJP",
-          "ws": 83,
+          "ws": "282",
           "cc": "#FF7D1D"
         },
         {
+          "nm": "OTH",
+          "ws": "183",
+          "cc": "#888888"
+        },
+        {
           "nm": "INC",
-          "ws": 73,
+          "ws": "44",
           "cc": "#0076CC"
         },
         {
-          "nm": "MAH",
-          "ws": 63,
-          "cc": "#00C86E"
+          "nm": "TMC",
+          "ws": "34",
+          "cc": "#24e51d"
+        }
+      ]
+    },
+    {
+      "tn": "ad",
+      "adurl": ""
+    },
+    {
+      "tn": "election",
+      "wu": "https://m.timesofindia.com/elections",
+      "ttl_seats": "543",
+      "header": "LOK SABHA 2019",
+      "status": "LEADS",
+      "extra_label": "MAJORITY MARK: 272",
+      "rslt": [
+        {
+          "nm": "NDA",
+          "ws": "357",
+          "cc": "#FF9650"
         },
         {
-          "nm": "NCP",
-          "ws": 43,
-          "cc": "#84898B"
+          "nm": "UPA",
+          "ws": "59",
+          "cc": "#1EB4FF"
+        },
+        {
+          "nm": "TMC",
+          "ws": "34",
+          "cc": "#24e51d"
         },
         {
           "nm": "OTH",
-          "ws": 33,
-          "cc": "#f44259"
+          "ws": "25",
+          "cc": "#888888"
+        },
+        {
+          "nm": "BJD",
+          "ws": "20",
+          "cc": "#198de2"
+        },
+        {
+          "nm": "TDP",
+          "ws": "16",
+          "cc": "#ffe21c"
+        },
+        {
+          "nm": "TRS",
+          "ws": "11",
+          "cc": "#ec008c"
+        },
+        {
+          "nm": "YSRCP",
+          "ws": "9",
+          "cc": "#ffa04f"
+        },
+        {
+          "nm": "MGB",
+          "ws": "5",
+          "cc": "#00C86E"
+        },
+        {
+          "nm": "AAP",
+          "ws": "4",
+          "cc": "#5bb30e"
+        },
+        {
+          "nm": "JKPDP",
+          "ws": "3",
+          "cc": "#016138"
+        },
+        {
+          "nm": "JKNC",
+          "ws": "0",
+          "cc": "#F90118"
         }
       ]
     }
   ],
   "smallAd": {
-    "url": "adUrl"
+    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
   },
-  "bigAd": {
-    "url": "adUrl"
+   "bigAd": {
+    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
   }
 }
