@@ -1,8 +1,8 @@
 {
   "st": "true",
-  "dpt": "",
-  "nst": "",
-  "rt": "",
+  "dpt": "15",
+  "nst": "600",
+  "rt": "15",
   "items": [
     {
       "tn": "election",
