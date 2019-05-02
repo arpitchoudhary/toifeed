@@ -7,27 +7,27 @@
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
       "header": "LOK SABHA 2018",
-      "status": "CHANGE",
+      "status": "LEADS",
       "extra_label": "MAJORITY MARK: 272",
       "rslt": [
         {
           "nm": "BJP",
-          "ws": "0",
+          "ws": "282",
           "cc": "#FF7D1D"
         },
         {
           "nm": "OTH",
-          "ws": "0",
+          "ws": "10",
           "cc": "#888888"
         },
         {
           "nm": "INC",
-          "ws": "00",
+          "ws": "50",
           "cc": "#0076CC"
         },
         {
           "nm": "TMC",
-          "ws": "0",
+          "ws": "60",
           "cc": "#24e51d"
         }
       ]
@@ -48,22 +48,22 @@
       "rslt": [
         {
           "nm": "NDA",
-          "ws": "0",
+          "ws": "340",
           "cc": "#FF9650"
         },
         {
           "nm": "UPA",
-          "ws": "0",
+          "ws": "90",
           "cc": "#1EB4FF"
         },
         {
           "nm": "TMC",
-          "ws": "0",
+          "ws": "20",
           "cc": "#24e51d"
         },
         {
           "nm": "OTH",
-          "ws": "0",
+          "ws": "10",
           "cc": "#888888"
         },
         {
