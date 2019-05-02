@@ -1,13 +1,15 @@
 {
-  "status": "true",
+  "st": "false",
+  "dpt": "60",
+  "nst": "300",
+  "rt": "5",
   "items": [
     {
-      "id": "1",
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "LOK SABHA 2018",
-      "status": "LEADS",
+      "header": "LOK SABHA 2019",
+      "status": "RESULTS",
       "extra_label": "MAJORITY MARK: 272",
       "rslt": [
         {
@@ -16,75 +18,72 @@
           "cc": "#FF7D1D"
         },
         {
-          "nm": "OTH",
-          "ws": "10",
-          "cc": "#888888"
-        },
-        {
           "nm": "INC",
-          "ws": "50",
+          "ws": "44",
           "cc": "#0076CC"
         },
         {
           "nm": "TMC",
-          "ws": "60",
+          "ws": "34",
           "cc": "#24e51d"
+        },
+        {
+          "nm": "OTH",
+          "ws": "183",
+          "cc": "#888888"
         }
       ]
     },
     {
-      "id": "2",
-      "tn": "ad",
-      "adurl": ""
+      "tn": "ad"
     },
     {
-      "id": "3",
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "LOK SABHA 2020",
+      "header": "LOK SABHA 2019",
       "status": "LEADS",
       "extra_label": "MAJORITY MARK: 272",
       "rslt": [
         {
           "nm": "NDA",
-          "ws": "340",
+          "ws": "357",
           "cc": "#FF9650"
         },
         {
           "nm": "UPA",
-          "ws": "90",
+          "ws": "59",
           "cc": "#1EB4FF"
         },
         {
           "nm": "TMC",
-          "ws": "20",
+          "ws": "34",
           "cc": "#24e51d"
         },
         {
-          "nm": "OTH",
-          "ws": "10",
-          "cc": "#888888"
-        },
-        {
           "nm": "BJD",
-          "ws": "0",
+          "ws": "20",
           "cc": "#198de2"
         },
         {
           "nm": "TDP",
-          "ws": "00",
+          "ws": "16",
           "cc": "#ffe21c"
         },
         {
           "nm": "TRS",
-          "ws": "111",
+          "ws": "11",
           "cc": "#ec008c"
+        },
+        {
+          "nm": "LDF",
+          "ws": "9",
+          "cc": "#FE0101"
         },
         {
           "nm": "YSRCP",
           "ws": "9",
-          "cc": "#ffa04f"
+          "cc": "#0800FF"
         },
         {
           "nm": "MGB",
@@ -105,14 +104,22 @@
           "nm": "JKNC",
           "ws": "0",
           "cc": "#F90118"
+        },
+        {
+          "nm": "OTH",
+          "ws": "16",
+          "cc": "#888888"
         }
       ]
+    },
+    {
+      "tn": "ad"
     }
   ],
   "smallAd": {
-    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
+    "url": "TOI_APP_AOS_ROS_CUBE_195x30"
   },
   "bigAd": {
-    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
+    "url": "TOI_APP_AOS_ROS_CUBE_195x85"
   }
 }
