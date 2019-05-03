@@ -1,15 +1,15 @@
 {
   "st": "true",
-  "dpt": "60",
-  "nst": "600",
-  "rt": "15",
+  "dpt": "10",
+  "nst": "300",
+  "rt": "5",
   "items": [
     {
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
       "header": "LOK SABHA 2019",
-      "status": "noDPT",
+      "status": "RESULTS",
       "extra_label": "MAJORITY MARK: 272",
       "rslt": [
         {
