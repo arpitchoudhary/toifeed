@@ -1,6 +1,6 @@
 {
   "st": "true",
-  "dpt": "15",
+  "dpt": "60",
   "nst": "300",
   "rt": "5",
   "hl": "Elections 2019",
@@ -9,7 +9,35 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "LOK SABHA 2019",
+      "header": "AFTER ADDITION",
+      "status": "RESULTS",
+      "extra_label": "272",
+      "rslt": [
+        {
+          "nm": "BJP",
+          "ws": "282",
+          "cc": "#FF7D1D"
+        },
+        {
+          "nm": "INC",
+          "ws": "44",
+          "cc": "#0076CC"
+        },
+        {
+          "nm": "OTH",
+          "ws": "217",
+          "cc": "#888888"
+        }
+      ]
+    },
+    {
+      "tn": "ad"
+    },
+    {
+      "tn": "election",
+      "wu": "https://m.timesofindia.com/elections",
+      "ttl_seats": "543",
+      "header": "ADD",
       "status": "LEADS",
       "extra_label": "272",
       "rslt": [
