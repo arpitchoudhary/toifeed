@@ -9,31 +9,6 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "15SECOND",
-      "status": "Choudhary",
-      "extra_label": "HEllo",
-      "rslt": [
-        {
-          "nm": "10sec",
-          "ws": "282",
-          "cc": "#FF7D1D"
-        },
-        {
-          "nm": "B",
-          "ws": "44",
-          "cc": "#0076CC"
-        },
-        {
-          "nm": "OTH",
-          "ws": "217",
-          "cc": "#888888"
-        }
-      ]
-    },
-    {
-      "tn": "election",
-      "wu": "https://m.timesofindia.com/elections",
-      "ttl_seats": "543",
       "header": "LOK SABHA 2019",
       "status": "LEADS",
       "extra_label": "272",
@@ -104,9 +79,6 @@
           "cc": "#888888"
         }
       ]
-    },
-    {
-      "tn": "ad"
     }
   ],
   "smallAd": {
