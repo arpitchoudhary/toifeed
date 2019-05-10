@@ -1,6 +1,6 @@
 {
   "st": "true",
-  "dpt": "10",
+  "dpt": "15",
   "nst": "300",
   "rt": "5",
   "hl": "Elections 2019",
@@ -9,7 +9,7 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "10sec",
+      "header": "15SECOND",
       "status": "Choudhary",
       "extra_label": "HEllo",
       "rslt": [
