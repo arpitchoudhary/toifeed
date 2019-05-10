@@ -1,6 +1,6 @@
 {
   "st": "true",
-  "dpt": "60",
+  "dpt": "30",
   "nst": "300",
   "rt": "5",
   "hl": "Elections 2019",
@@ -9,22 +9,22 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "LOK SABHA 2019",
+      "header": "GITHUBCALL",
       "status": "RESULTS",
-      "extra_label": "272",
+      "extra_label": "380",
       "rslt": [
         {
-          "nm": "BJP",
+          "nm": "A",
           "ws": "282",
           "cc": "#FF7D1D"
         },
         {
-          "nm": "INC",
+          "nm": "B",
           "ws": "44",
           "cc": "#0076CC"
         },
         {
-          "nm": "OTH",
+          "nm": "C",
           "ws": "217",
           "cc": "#888888"
         }
@@ -42,22 +42,22 @@
       "extra_label": "272",
       "rslt": [
         {
-          "nm": "NDA",
+          "nm": "D",
           "ws": "357",
           "cc": "#FF9650"
         },
         {
-          "nm": "UPA",
+          "nm": "E",
           "ws": "59",
           "cc": "#1EB4FF"
         },
         {
-          "nm": "TMC",
+          "nm": "F",
           "ws": "34",
           "cc": "#24e51d"
         },
         {
-          "nm": "BJD",
+          "nm": "G",
           "ws": "20",
           "cc": "#198de2"
         },
