@@ -1,6 +1,6 @@
 {
   "st": "true",
-  "dpt": "20",
+  "dpt": "25",
   "nst": "300",
   "rt": "5",
   "hl": "Elections 2019",
@@ -9,7 +9,7 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "20sec",
+      "header": "25sec",
       "status": "RESULTS",
       "extra_label": "272",
       "rslt": [
@@ -33,6 +33,11 @@
           "nm": "LDF",
           "ws": "9",
           "cc": "#FE0101"
+        },
+        {
+          "nm": "YSRCP",
+          "ws": "9",
+          "cc": "#0800FF"
         }
       ]
     },
