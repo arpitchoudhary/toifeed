@@ -1,6 +1,6 @@
 {
   "st": "true",
-  "dpt": "10",
+  "dpt": "20",
   "nst": "300",
   "rt": "5",
   "hl": "Elections 2019",
@@ -9,14 +9,20 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "LOK",
+      "header": "20sec",
       "status": "RESULTS",
       "extra_label": "272",
       "rslt": [
         {
-          "nm": "BJP",
-          "ws": "282",
-          "cc": "#FF7D1D"
+          "nm": "OTH",
+          "ws": "16",
+          "cc": "#888888"
+        },
+        
+        {
+          "nm": "TRS",
+          "ws": "11",
+          "cc": "#ec008c"
         },
         {
           "nm": "INC",
@@ -37,7 +43,7 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "LOK",
+      "header": "20sec",
       "status": "LEADS",
       "extra_label": "272",
       "rslt": [
