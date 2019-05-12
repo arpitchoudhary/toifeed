@@ -1,6 +1,6 @@
 {
   "st": "true",
-  "dpt": "60",
+  "dpt": "30",
   "nst": "300",
   "rt": "5",
   "hl": "Elections 2019",
@@ -9,7 +9,7 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "AFTER ADDITION",
+      "header": "LOK",
       "status": "RESULTS",
       "extra_label": "272",
       "rslt": [
@@ -22,11 +22,6 @@
           "nm": "INC",
           "ws": "44",
           "cc": "#0076CC"
-        },
-        {
-          "nm": "OTH",
-          "ws": "217",
-          "cc": "#888888"
         }
       ]
     },
@@ -37,17 +32,17 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "ADD",
+      "header": "LOK",
       "status": "LEADS",
       "extra_label": "272",
       "rslt": [
         {
-          "nm": "NDA",
+          "nm": "UPA",
           "ws": "357",
           "cc": "#FF9650"
         },
         {
-          "nm": "UPA",
+          "nm": "NDA",
           "ws": "59",
           "cc": "#1EB4FF"
         },
