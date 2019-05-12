@@ -1,6 +1,6 @@
 {
   "st": "true",
-  "dpt": "25",
+  "dpt": "30",
   "nst": "300",
   "rt": "5",
   "hl": "Elections 2019",
@@ -9,21 +9,11 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "25sec",
+      "header": "30secsec",
       "status": "RESULTS",
       "extra_label": "272",
       "rslt": [
-        {
-          "nm": "OTH",
-          "ws": "16",
-          "cc": "#888888"
-        },
-        
-        {
-          "nm": "TRS",
-          "ws": "11",
-          "cc": "#ec008c"
-        },
+       
         {
           "nm": "INC",
           "ws": "44",
