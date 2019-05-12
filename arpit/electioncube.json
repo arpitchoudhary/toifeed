@@ -1,6 +1,6 @@
 {
   "st": "true",
-  "dpt": "30",
+  "dpt": "60",
   "nst": "300",
   "rt": "5",
   "hl": "Elections 2019",
@@ -9,8 +9,8 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "30secsec",
-      "status": "RESULTS",
+      "header": "60SEC",
+      "status": "ACTUAL",
       "extra_label": "272",
       "rslt": [
        
@@ -28,6 +28,11 @@
           "nm": "YSRCP",
           "ws": "9",
           "cc": "#0800FF"
+        },
+        {
+          "nm": "TDP",
+          "ws": "16",
+          "cc": "#ffe21c"
         }
       ]
     },
@@ -38,9 +43,9 @@
       "tn": "election",
       "wu": "https://m.timesofindia.com/elections",
       "ttl_seats": "543",
-      "header": "20sec",
-      "status": "LEADS",
-      "extra_label": "272",
+      "header": "6)SEC",
+      "status": "ACTUAL",
+      "extra_label": "411",
       "rslt": [
         {
           "nm": "UPA",
