@@ -25,7 +25,7 @@
         "overs": "15.0",
         "status": "batting"
       },
-      "status": "India need 20 runs to win"
+      "result": "India need 20 runs to win"
     },
     {
       "tn": "ad"
@@ -49,7 +49,7 @@
         "balls": "20",
         "status": "offstrike"
       },
-      "status": "CSK won the toss"
+      "result": "CSK won the toss"
     },
     {
       "tn": "ad"
