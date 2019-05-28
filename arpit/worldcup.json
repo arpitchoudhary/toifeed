@@ -1,83 +1,68 @@
 {
-  "st": "true",
-  "dpt": "65",
-  "nst": "300",
-  "rt": "5",
-  "hl": "ICC World Cup 2019",
-  "items": [
-    {
-      "tn": "score_teams",
-      "hl": "ICC World Cup 2019",
-      "lable_imageId": "58679594",
-      "wu": "https://m.timesofindia.com/elections",
-      "teamA": {
-        "name": "INDIA",
-        "imgID": "",
-        "score": "162",
-        "wickets": "8",
-        "overs": "20.0"
-      },
-      "teamB": {
-        "name": "AUS",
-        "imgID": "",
-        "score": "142",
-        "wickets": "5",
-        "overs": "15.0",
-        "status": "batting"
-      },
-      "result": "India need 20 runs to win"
-    },
-    {
-      "tn": "ad"
-    },
-    {
-      "tn": "score_batting",
-      "hl": "ICC World Cup 2019",
-      "lable_imageId": "58679594",
-      "wu": "https://m.timesofindia.com/elections",
-      "playerA": {
-        "name": "R. Sharma",
-        "imgID": "",
-        "runs": "20",
-        "balls": "10",
-        "status": "onstrike"
-      },
-      "playerB": {
-        "name": "S. Dhawan",
-        "imgID": "",
-        "runs": "30",
-        "balls": "20",
-        "status": "offstrike"
-      },
-      "result": "CSK won the toss"
-    },
-    {
-      "tn": "ad"
-    },
-    {
-      "dm": "t",
-      "id": "69038712",
-      "hl": "News : Homeowners in india roll up sleeves to complete unfinished flats",
-      "tn": "news",
-      "imageId": "69304866"
-    },
-    {
-      "hl": "Live Blog HTMLVIEW: PM Modi holds mega roadshow in Varanasi",
-      "imageId": "69304866",
-      "tn": "htmlview",
-      "wu": "https://timesofindia.indiatimes.com/elections/lok-sabha-elections-2019-live-updates-pm-modi-to-hold-roadshow-in-varanasi-today/liveblog/69034712.cms"
-    },
-    {
-      "hl": "Live Blog HTML: PM Modi holds mega roadshow in Varanasi",
-      "imageId": "69304866",
-      "tn": "html",
-      "wu": "https://timesofindia.indiatimes.com/elections/lok-sabha-elections-2019-live-updates-pm-modi-to-hold-roadshow-in-varanasi-today/liveblog/69034712.cms"
-    }
-  ],
-  "smallAd": {
-    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
-  },
-  "bigAd": {
-    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
-  }
+	"st": "true",
+	"dpt": "50",
+	"nst": "10",
+	"rt": "5",
+	"hl": "ICC World Cup 201",
+	"items": [{
+		"tn": "score_teams",
+		"hl": "Face1",
+		"wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
+		"lable_imageId": "58679594",
+		"teamA": {
+			"status": "batting",
+			"imageid": "63802639",
+			"name": "Afghanistan",
+			"score": "113",
+			"wickets": "8",
+			"overs": "30.3"
+		},
+		"teamB": {
+			"status": "YTB",
+			"imageid": "63802759",
+			"name": "England",
+			"score": "",
+			"wickets": "",
+			"overs": ""
+		},
+		"result": "Last wicket: Rashid Khan - 0(1)"
+	}, {
+		"tn": "ad"
+	}, {
+		"tn": "score_batting",
+		"hl": "Face2",
+		"wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
+		"lable_imageId": "58679594",
+		"playerA": {
+			"name": "Mohammad Nabi",
+			"runs": "21",
+			"balls": "1",
+			"status": "onstrike"
+		},
+		"playerB": {
+			"name": "Aftab Alam",
+			"runs": "3",
+			"balls": "21",
+			"status": "Playing"
+		},
+		"result": "Last wicket: Rashid Khan - 0(1)"
+	},  {
+		"hl": "Welcome to 'Thinkistan'",
+		"id": "69471065",
+		"tn": "video",
+		"type": "featured",
+		"hasvideo": "yes",
+		"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/welcome-to-thinkistan/videoshow/69471065.cms",
+		"dm": "t",
+		"imageid": "69509604",
+		"dl": "1558892820000",
+		"upd": "1558892820000",
+		"lpt": "1558895390081"
+	}],
+	"smallAd": {
+		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
+	},
+	"bigAd": {
+		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
+	}
 }
