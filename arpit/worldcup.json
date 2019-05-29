@@ -5,42 +5,26 @@
   "rt": "5",
   "hl": "ICC World Cup 201",
   "items": [
-  
     {
-      "tn": "ad"
-    },
-    {
-      "hl": "Welcome to 'Thinkistan'",
-      "id": "69471065",
-      "tn": "video",
-      "type": "featured",
-      "hasvideo": "yes",
-      "wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/welcome-to-thinkistan/videoshow/69471065.cms",
-      "dm": "t",
-      "imageid": "69509604",
-      "dl": "1558892820000",
-      "upd": "1558892820000",
-      "lpt": "1558895390081"
-    },
-    {
-      "tn": "ad"
-    },
-    {
-      "tn": "score_batting",
-      "hl": "SECOND",
+      "tn": "score_teams",
+      "hl": "Face1",
       "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
       "lable_imageId": "58679594",
-      "playera": {
-        "name": "Arpit Choudhary",
-        "runs": "100",
-        "balls": "65",
-        "status": "onstrike"
+      "teama": {
+        "status": "batting",
+        "imageid": "63802639",
+        "name": "Afghanistan",
+        "score": "113",
+        "wickets": "8",
+        "overs": "30.3"
       },
-      "playerb": {
-        "name": "Yogesh",
-        "runs": "3",
-        "balls": "21",
-        "status": "Playing"
+      "teamb": {
+        "status": "Yet to bat",
+        "imageid": "63802759",
+        "name": "England",
+        "score": "",
+        "wickets": "",
+        "overs": ""
       },
       "result": "Last wicket: Rashid Khan - 0(1)"
     },
@@ -49,7 +33,7 @@
     },
     {
       "tn": "score_batting",
-      "hl": "THIRD",
+      "hl": "Face2",
       "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
       "lable_imageId": "58679594",
       "playera": {
@@ -67,7 +51,10 @@
       "result": "Last wicket: Rashid Khan - 0(1)"
     },
     {
-      "hl": "Not a big news",
+      "tn": "ad"
+    },
+    {
+      "hl": "Welcome to 'Thinkistan'",
       "id": "69471065",
       "tn": "video",
       "type": "featured",
@@ -78,29 +65,6 @@
       "dl": "1558892820000",
       "upd": "1558892820000",
       "lpt": "1558895390081"
-    },
-    {
-      "tn": "score_teams",
-      "hl": "Face1",
-      "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
-      "lable_imageId": "58679594",
-      "teama": {
-        "status": "",
-        "imageid": "63802639",
-        "name": "Afghanistan",
-        "score": "113",
-        "wickets": "8",
-        "overs": "30.3"
-      },
-      "teamb": {
-        "status": "",
-        "imageid": "63802759",
-        "name": "England",
-        "score": "",
-        "wickets": "",
-        "overs": ""
-      },
-      "result": "Last wicket: Rashid Khan - 0(1)"
     }
   ],
   "smallAd": {
