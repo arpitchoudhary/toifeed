@@ -6,34 +6,11 @@
   "hl": "ICC World Cup 201",
   "items": [
     {
-      "tn": "score_teams",
-      "hl": "Face1",
-      "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
-      "lable_imageId": "58679594",
-      "teama": {
-        "status": "batting",
-        "imageid": "63802639",
-        "name": "Afghanistan",
-        "score": "113",
-        "wickets": "8",
-        "overs": "30.3"
-      },
-      "teamb": {
-        "status": "",
-        "imageid": "63802759",
-        "name": "England",
-        "score": "0",
-        "wickets": "0",
-        "overs": "0"
-      },
-      "result": "Last wicket: Rashid Khan - 0(1)"
-    },
-    {
       "tn": "ad"
     },
     {
       "tn": "score_batting",
-      "hl": "Face2",
+      "hl": "Players",
       "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
       "lable_imageId": "58679594",
       "playera": {
