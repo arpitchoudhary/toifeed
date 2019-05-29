@@ -52,6 +52,19 @@
     },
     {
       "tn": "ad"
+    },
+    {
+      "hl": "Welcome to 'Thinkistan'",
+      "id": "69471065",
+      "tn": "video",
+      "type": "featured",
+      "hasvideo": "yes",
+      "wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/welcome-to-thinkistan/videoshow/69471065.cms",
+      "dm": "t",
+      "imageid": "69509604",
+      "dl": "1558892820000",
+      "upd": "1558892820000",
+      "lpt": "1558895390081"
     }
   ],
   "smallAd": {
