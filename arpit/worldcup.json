@@ -10,7 +10,7 @@
     },
     {
       "tn": "score_batting",
-      "hl": "Players",
+      "hl": "FIRST",
       "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
       "lable_imageId": "58679594",
       "playera": {
@@ -26,6 +26,9 @@
         "status": "Playing"
       },
       "result": "Last wicket: Rashid Khan - 0(1)"
+    },
+    {
+      "tn": "ad"
     },
     {
       "hl": "Welcome to 'Thinkistan'",
@@ -45,7 +48,7 @@
     },
     {
       "tn": "score_batting",
-      "hl": "MATCH",
+      "hl": "SECOND",
       "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
       "lable_imageId": "58679594",
       "playera": {
@@ -56,6 +59,28 @@
       },
       "playerb": {
         "name": "Yogesh",
+        "runs": "3",
+        "balls": "21",
+        "status": "Playing"
+      },
+      "result": "Last wicket: Rashid Khan - 0(1)"
+    },
+    {
+      "tn": "ad"
+    },
+    {
+      "tn": "score_batting",
+      "hl": "THIRD",
+      "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
+      "lable_imageId": "58679594",
+      "playera": {
+        "name": "Mohammad Nabi",
+        "runs": "21",
+        "balls": "1",
+        "status": "onstrike"
+      },
+      "playerb": {
+        "name": "Aftab Alam",
         "runs": "3",
         "balls": "21",
         "status": "Playing"
