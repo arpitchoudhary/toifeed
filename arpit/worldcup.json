@@ -5,28 +5,7 @@
   "rt": "5",
   "hl": "ICC World Cup 201",
   "items": [
-    {
-      "tn": "ad"
-    },
-    {
-      "tn": "score_batting",
-      "hl": "FIRST",
-      "wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
-      "lable_imageId": "58679594",
-      "playera": {
-        "name": "Mohammad Nabi",
-        "runs": "21",
-        "balls": "1",
-        "status": "onstrike"
-      },
-      "playerb": {
-        "name": "Aftab Alam",
-        "runs": "3",
-        "balls": "21",
-        "status": "Playing"
-      },
-      "result": "Last wicket: Rashid Khan - 0(1)"
-    },
+  
     {
       "tn": "ad"
     },
