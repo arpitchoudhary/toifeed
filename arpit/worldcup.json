@@ -22,9 +22,9 @@
         "status": "",
         "imageid": "63802759",
         "name": "England",
-        "score": "",
+        "score": "0",
         "wickets": "",
-        "overs": ""
+        "overs": "0"
       },
       "result": "Last wicket: Rashid Khan - 0(1)"
     },
@@ -42,12 +42,12 @@
         "overs": "30.3"
       },
       "teamb": {
-        "status": "Yet to bat",
+        "status": "",
         "imageid": "63802759",
         "name": "England",
-        "score": "",
-        "wickets": "",
-        "overs": ""
+        "score": "0",
+        "wickets": "0",
+        "overs": "0"
       },
       "result": "Last wicket: Rashid Khan - 0(1)"
     },
