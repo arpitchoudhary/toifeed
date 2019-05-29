@@ -9,7 +9,7 @@
 		"hl": "Face1",
 		"wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
 		"lable_imageId": "58679594",
-		"teamA": {
+		"teama": {
 			"status": "batting",
 			"imageid": "63802639",
 			"name": "Afghanistan",
@@ -17,7 +17,7 @@
 			"wickets": "8",
 			"overs": "30.3"
 		},
-		"teamB": {
+		"teamb": {
 			"status": "YTB",
 			"imageid": "63802759",
 			"name": "England",
@@ -33,13 +33,13 @@
 		"hl": "Face2",
 		"wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-afghanistan-vs-england-live-cricket-score/scorecard/matchfile-enaf05272019189774.cms",
 		"lable_imageId": "58679594",
-		"playerA": {
+		"playera": {
 			"name": "Mohammad Nabi",
 			"runs": "21",
 			"balls": "1",
 			"status": "onstrike"
 		},
-		"playerB": {
+		"playerb": {
 			"name": "Aftab Alam",
 			"runs": "3",
 			"balls": "21",
