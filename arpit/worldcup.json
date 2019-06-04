@@ -32,6 +32,9 @@
     {
       "tn": "ad"
     },
+     {
+      "tn": "fullAd"
+    },
     {
       "tn": "score_batting",
       "hl": "Face2",
