@@ -4,6 +4,7 @@
   "nst": "30",
   "rt": "5",
   "hl": "ICC World Cup 201",
+  "ispromotional": "false",
   "items": [
     {
       "tn": "score_teams",
@@ -59,5 +60,8 @@
   },
   "bigAd": {
     "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
+  },
+  "fullAd": {
+    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x115"
   }
 }
