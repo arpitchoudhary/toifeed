@@ -7,7 +7,13 @@
   "isPromotional": "true",
   "items": [
     {
-      "tn": "ad"
+      "tn": "fullAd"
+    },
+    {
+      "tn": "fullAd"
+    },
+    {
+      "tn": "fullAd"
     },
     {
       "tn": "ad"
@@ -19,7 +25,11 @@
       "tn": "ad"
     },
     {
-      "tn": "ad"
+      "tn": "fullAd"
+    }
+    ,
+    {
+      "tn": "fullAd"
     },
     {
       "tn": "ad"
