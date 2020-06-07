@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "date": "31 Dec 2019",
+      "heading": "First Case",
+      "content": "Wuhan Municipal Health Commission, China, reported a cluster of cases of pneumonia in Wuhan, Hubei Province. A novel coronavirus was eventually identified.",
+      "link": "https://www.who.int/news-room/detail/27-04-2020-who-timeline---covid-19"
+    },
+    {
+      "date": "1 Jan 2020",
+      "heading": "IMST SetUp",
+      "content": "WHO had set up the IMST (Incident Management Support Team) across the three levels of the organization: headquarters, regional headquarters and country level, putting the organization on an emergency footing for dealing with the outbreak.",
+      "link": "https://www.who.int/news-room/detail/27-04-2020-who-timeline---covid-19"
+    },
+    {
+      "date": "4  Jan 2020",
+      "heading": "WHO Reported",
+      "content": "WHO reported on social media that there was a cluster of pneumonia cases – with no deaths – in Wuhan, Hubei province. ",
+      "link": "https://www.who.int/news-room/detail/27-04-2020-who-timeline---covid-19"
+    },
+    {
+      "date": "5 Jan 2020",
+      "heading": "Published First Disease Outbreak News",
+      "content": "WHO published our first Disease Outbreak News on the new virus. This is a flagship technical publication to the scientific and public health community as well as global media. It contained a risk assessment and advice, and reported on what China had told the organization about the status of patients and the public health response on the cluster of pneumonia cases in Wuhan.",
+      "link": "https://www.who.int/news-room/detail/27-04-2020-who-timeline---covid-19"
+    },
+    {
+      "date": "12 Jan 2020",
+      "heading": "Genetic Sequence of Covid",
+      "content": "China publicly shared the genetic sequence of COVID-19.",
+      "link": "https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/"
+    },
+    {
+      "date": "13 Jan 2020",
+      "heading": "First Case Outside China",
+      "content": "Officials confirm a case of COVID-19 in Thailand, the first recorded case outside of China.",
+      "link": "https://www.who.int/news-room/detail/13-01-2020-who-statement-on-novel-coronavirus-in-thailand"
+    }
+  ]
+}
