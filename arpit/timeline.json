@@ -40,5 +40,68 @@
     "heading": "First Case Outside China",
     "content": "Officials confirm a case of COVID-19 in Thailand, the first recorded case outside of China.",
     "link": "https://www.who.int/news-room/detail/13-01-2020-who-statement-on-novel-coronavirus-in-thailand"
+  },
+  {
+    "id": 7,
+    "date": "14 Jan 2020",
+    "heading": "Human-to-Human transmission",
+    "content": "WHO's technical lead for the response noted in a press briefing there may have been limited human-to-human transmission of the coronavirus (in the 41 confirmed cases), mainly through family members, and that there was a risk of a possible wider outbreak. The lead also said that human-to-human transmission would not be surprising given our experience with SARS, MERS and other respiratory pathogens.",
+    "link": "https://www.who.int/news-room/detail/27-04-2020-who-timeline---covid-19"
+  },
+  {
+    "id": 8,
+    "date": "22 Jan 2020",
+    "heading": "WHO Statement",
+    "content": "WHO mission to China issued a statement saying that there was evidence of human-to-human transmission in Wuhan but more investigation was needed to understand the full extent of transmission.",
+    "link": "https://www.who.int/china/news/detail/22-01-2020-field-visit-wuhan-china-jan-2020"
+  },
+  {
+    "id": 9,
+    "date": "28 Jan 2020",
+    "heading": "WHO delegation travelled to china",
+    "content": "A senior WHO delegation led by the Director-General travelled to Beijing to meet China’s leadership, learn more about China’s response, and to offer any technical assistance. While in Beijing, Dr. Tedros agreed with Chinese government leaders that an international team of leading scientists would travel to China on a mission to better understand the context, the overall response, and exchange information and experience.",
+    "link": "https://www.who.int/news-room/detail/28-01-2020-who-china-leaders-discuss-next-steps-in-battle-against-coronavirus-outbreak"
+  },
+  {
+    "id": 10,
+    "date": "3 Feb 2020",
+    "heading": "Preparedness Plan",
+    "content": "WHO releases the international community's Strategic Preparedness and Response Plan to help protect states with weaker health systems. ",
+    "link": "https://www.who.int/publications/i/item/strategic-preparedness-and-response-plan-for-the-new-coronavirus"
+  },
+  {
+    "id": 11,
+    "date": "11-12 Feb 2020",
+    "heading": "Forum",
+    "content": "WHO convened a Research and Innovation Forum on COVID-19, attended by more than 400 experts and funders from around the world, which included presentations by George Gao, Director General of China CDC, and Zunyou Wu, China CDC's chief epidemiologist. ",
+    "link": "https://www.who.int/news-room/detail/12-02-2020-world-experts-and-funders-set-priorities-for-covid-19-research"
+  },
+  {
+    "id": 12,
+    "date": "16-24 Feb 2020",
+    "heading": "Forum",
+    "content": "The WHO-China Joint mission, which included experts from Canada, Germany, Japan, Nigeria, Republic of Korea, Russia, Singapore and the US (CDC, NIH) spent time in Beijing and also travelled to Wuhan and two other cities. They spoke with health officials, scientists and health workers in health facilities (maintaining physical distancing).",
+    "link": "https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf"
+  },
+  {
+    "id": 13,
+    "date": "11 Mar 2020",
+    "heading": "Pandemic",
+    "content": "Deeply concerned both by the alarming levels of spread and severity, and by the alarming levels of inaction, WHO made the assessment that COVID-19 can be characterized as a pandemic.",
+    "link": "https://www.who.int/news-room/detail/27-04-2020-who-timeline---covid-19"
+  },
+  {
+    "id": 14,
+    "date": "13 Mar 2020",
+    "heading": "Funds",
+    "content": "COVID-19 Solidarity Response Fund launched to receive donations from private individuals, corporations and institutions.",
+    "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate"
+  },
+  {
+    "id": 15,
+    "date": "18 Mar 2020",
+    "heading": "Solidarity Trial",
+    "content": "WHO and partners launch the Solidarity Trial, an international clinical trial that aims to generate robust data from around the world to find the most effective treatments for COVID-19",
+    "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/solidarity-clinical-trial-for-covid-19-treatments"
   }
 ]
