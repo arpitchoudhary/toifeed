@@ -110,5 +110,19 @@
     "heading": "Solidarity Trial",
     "content": "WHO and partners launch the Solidarity Trial, an international clinical trial that aims to generate robust data from around the world to find the most effective treatments for COVID-19",
     "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/solidarity-clinical-trial-for-covid-19-treatments"
+  },
+  {
+    "id": 17,
+    "date": "8 Jun 2020",
+    "heading": "New Zealand Virus Free",
+    "content": "New Zealand has lifted almost all of its coronavirus restrictions after reporting no active cases in the country.",
+    "link": "https://www.bbc.com/news/world-asia-52961539"
+  },
+  {
+    "id": 18,
+    "date": "10 Jun 2020",
+    "heading": "Recoveries > Active Cases, India",
+    "content": "Covid-19: Number of recoveries exceed active cases for first time",
+    "link": "https://www.hindustantimes.com/india-news/covid-19-number-of-recoveries-exceed-active-cases-for-first-time/story-uA0C6zESJTdkl9UQ2lHc2M.html"
   }
 ]
