@@ -112,6 +112,20 @@
     "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/solidarity-clinical-trial-for-covid-19-treatments"
   },
   {
+    "id": 23,
+    "date": "27 Mar 2020",
+    "heading": "Italy Corona update",
+    "content": "Italy again reported the highest single-day death toll since the coronavirus outbreak began: 919 deaths. Its cases have surpassed China's.",
+    "link": "https://www.businessinsider.in/science/news/italy-again-reported-the-highest-single-day-death-toll-since-the-coronavirus-outbreak-began-919-deaths-its-cases-have-surpassed-chinas-/articleshow/74853886.cms"
+  },
+  {
+    "id": 19,
+    "date": "17 May 2020",
+    "heading": "Vaccine Progress, Israel",
+    "content": "Israeli lab completes successful coronavirus vaccine tests on rodents – report",
+    "link": "https://www.timesofisrael.com/israeli-lab-completes-successful-coronavirus-vaccine-tests-on-rodents-report/"
+  },
+  {
     "id": 17,
     "date": "8 Jun 2020",
     "heading": "New Zealand Virus Free",
@@ -119,10 +133,24 @@
     "link": "https://www.bbc.com/news/world-asia-52961539"
   },
   {
+    "id": 21,
+    "date": "9 Jun 2020",
+    "heading": "Vaccine Update - AstraZeneca",
+    "content": "AstraZeneca close to rolling out COVID-19 vaccine, Oxford vaccine gets the go-ahead for clinical trials in Brazil and more updates",
+    "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-vaccine-latest-news-update-astrazeneca-ready-to-roll-out-covid-19-vaccine-in-september-and-more-updates-you-need-to-know/photostory/76261249.cms"
+  },
+  {
     "id": 18,
     "date": "10 Jun 2020",
     "heading": "Recoveries > Active Cases, India",
     "content": "Covid-19: Number of recoveries exceed active cases for first time",
     "link": "https://www.hindustantimes.com/india-news/covid-19-number-of-recoveries-exceed-active-cases-for-first-time/story-uA0C6zESJTdkl9UQ2lHc2M.html"
+  },
+  {
+    "id": 20,
+    "date": "11 Jun 2020",
+    "heading": "Human Trial In July, J&J",
+    "content": "Johnson & Johnson on Wednesday said that it has accelerated the first in-human clinical trial of its investigational SARS-CoV-2 vaccine in the second half of July via its Janssen Pharmaceutical Companies (Janssen).",
+    "link": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-vaccine-latest-news-update-johnson-johnson-to-begin-human-trial-of-covid-19-vaccine-in-july/articleshow/76314240.cms"
   }
 ]
